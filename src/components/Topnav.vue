@@ -11,7 +11,7 @@
           style="padding-top: 2px;"
         >
           <img
-            src="~/@/assets/logo.svg"
+            src="~/@/assets/DARK-logo.png"
             class="mr-2 v-align-middle"
             width="32"
             height="32"
@@ -19,7 +19,7 @@
           <span
             class="d-inline-block text-white"
             style="letter-spacing: 1px; font-size: 16px;"
-            v-text="'Balancer'"
+            v-text="'DARK'"
           />
         </router-link>
       </div>
