@@ -1,6 +1,6 @@
 <template>
   <UiModal :open="open" @close="close" style="max-width: 440px;">
-    <UiModalForm>
+    <UiModalForm style="background-color:rgba(40, 41, 50, 1)">
       <template slot="header">
         <h3 class="text-white mb-4">Select Token</h3>
         <Search

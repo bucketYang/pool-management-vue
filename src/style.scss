@@ -4,6 +4,8 @@
 
 html, body, #app {
   background-color: $black;
+  background: url("./assets/dv_bg.jpg") center center / cover no-repeat;
+  background-attachment: fixed;
   color: $gray;
   font-family: $font-weight-normal;
   -webkit-font-smoothing: antialiased;
